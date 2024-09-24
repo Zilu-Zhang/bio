@@ -1,22 +1,36 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research
+    authors: Bárbara B. Mendes†, <strong>Zilu Zhang†</strong>, João Conniot, Diana P. Sousa, João M. J. M. Ravasco, Lauren A. Onweller, Andżelika Lorenc, Tiago Rodrigues*, Daniel Reker*, João Conde* (†Co-first authors, *Corresponding authors)
+    conference_short: Nat. Nanotechnol
+    conference: Nature Nanotechnology, 2024.
+    pdf: https://www.nature.com/articles/s41565-024-01673-7
+    code: https://github.com/RekerLab/NanoAnalysis
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    #notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: Screening oral drugs for their interactions with the intestinal transportome via porcine tissue explants and machine learning
+    authors: Yunhua Shi, Daniel Reker, James D. Byrne, Ameya R. Kirtane, Kaitlyn Hess, Zhuyi Wang, Natsuda Navamajiti, Cameron C. Young, Zachary Fralish, <strong>Zilu Zhang<strong>, Aaron Lopes, Vance Soares, Jacob Wainer, Thomas von Erlach, Lei Miao, Robert Langer, Giovanni Traverso* (*Corresponding authors) 
+    conference_short: Nat. Biomed. Eng
+    conference: Nature Biomedical Engineering, 2024.
+    pdf: https://www.nature.com/articles/s41551-023-01128-9
+    code: https://github.com/RekerLab/Transportome
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/teaser_example.png
+    #notes: Oral Presentation
+
+  - title: Angiopoietin-2 is associated with capillary leak and predicts complications after cardiac surgery
+    authors: Jakob Wollborn*, <strong>Zilu Zhang<strong>, Julie Gaa, Moritz Gentner, Christian Hausmann, Felix Saenger, Karina Weise, Samuel Justice, Jean-Luca Funk, Hans Felix Staehle, Marie Thomas, Raphael R. Bruno, Babak Saravi, Jan O. Friess, Markus Marx, Hartmut Buerkle, Georg Trummer, Jochen D. Muehlschlegel, Daniel Reker, Ulrich Goebel, Felix Ulbrich (*Corresponding authors) 
+    conference_short: Ann. Intensive Care
+    conference: 	Annals of intensive care, 2023.
+    pdf: https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-023-01165-2
+    #code: https://github.com/RekerLab/Transportome
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/teaser_example.png
+    #notes: Oral Presentation
+
+
+    
