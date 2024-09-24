@@ -19,15 +19,3 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
-    
-  - title: Screening oral drugs for their interactions with the intestinal transportome via porcine tissue explants and machine learning
-    authors: Yunhua Shi, Daniel Reker, James D. Byrne, Ameya R. Kirtane, Kaitlyn Hess, Zhuyi Wang, Natsuda Navamajiti, Cameron C. Young, Zachary Fralish, <strong>Zilu Zhang<strong>, Aaron Lopes, Vance Soares, Jacob Wainer, Thomas von Erlach, Lei Miao, Robert Langer, Giovanni Traverso* (*Corresponding authors)
-    conference_short: Nat. Nanotechnol
-    conference: Nature Nanotechnology, 2023.
-    pdf: https://www.nature.com/articles/s41565-024-01673-7
-    code: https://github.com/RekerLab/NanoAnalysis
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    #notes: Early Accept
-
-
