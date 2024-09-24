@@ -11,8 +11,8 @@ main:
     #notes: Early Accept
 
 
-  - title: A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research
-    authors: Bárbara B. Mendes†, <strong>Zilu Zhang†</strong>, João Conniot, Diana P. Sousa, João M. J. M. Ravasco, Lauren A. Onweller, Andżelika Lorenc, Tiago Rodrigues*, Daniel Reker*, João Conde* (†Co-first authors, *Corresponding authors)
+  - title: TuNaAI: a hybrid kernel machine to design tunable nanoparticles for drug delivery
+    authors: <strong>Zilu Zhang†</strong>, Daniel Reker* (*Corresponding authors)
     conference_short: Nat. Nanotechnol
     conference: Nature Nanotechnology, 2024.
     pdf: https://www.nature.com/articles/s41565-024-01673-7
