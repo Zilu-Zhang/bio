@@ -7,9 +7,8 @@ main:
     pdf: https://www.nature.com/articles/s41565-024-01673-7
     code: https://github.com/RekerLab/NanoAnalysis
     page: ./assets/files/BMES2023_ZiluZhang.pdf
-    Poster: ./assets/files/BMES2023_ZiluZhang.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/nano_page.tif
+    image: ./assets/img/nano_page.png
     notes: Orally Presented at BMES2023
 
 
