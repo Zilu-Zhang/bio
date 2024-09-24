@@ -9,7 +9,7 @@ main:
     page: ./assets/files/BMES2023_ZiluZhang.pdf
     Poster: ./assets/files/BMES2023_ZiluZhang.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/nano_page.pdf
     notes: Orally Presented at BMES2023
 
 
