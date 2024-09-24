@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hey! I'm a Ph.D. candidate in the [Reker Lab](https://rekerlab.pratt.duke.edu/) in the Department of Biomedical Engineering (BME) at Duke University. My research broadly focuses on machine learning and the design of nanoparticle drug delivery systems.
+Hey! I'm a 4th-year Ph.D. candidate in the [Reker Lab](https://rekerlab.pratt.duke.edu/) in the Department of Biomedical Engineering (BME) at Duke University. My research broadly focuses on machine learning and the design of nanoparticle drug delivery systems.
 
 - **Machine Learning**
   * *Kernel design* to suggest optimal synthesis condition of nanodrug
