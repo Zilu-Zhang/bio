@@ -4,7 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hey! I'm a Ph.D. candidate in the [Reker Lab](https://rekerlab.pratt.duke.edu/) in the Department of Biomedical Engineering (BME) at Duke University. My research broadly focuses on machine learning and the design of nanoparticle drug delivery systems.
+
+- **Machine Learning**
+  * *Kernel design* to suggest optimal synthesis condition of nanodrug
+  * *Active learning* to efficiently iterate nanoparticle design in low data regime
+  * *Dimensionality Reduction* to identify critical design factors of efficacious nanotherapeutics
+    
+- **Nanoparticle Drug Delivery Design**
+  * *Targeted nanoparticle* to achieve desired nanoparticle biodistribution
+  * *Tripartite nanoparticle* to repurpose and enhance efficacy of cargo drugs
+  * *Tunable nanoparticle* to formulate hard-to-encapsulate drugs and reduce excipient usage
+
+{% include_relative _includes/publications.md %}
 
 ## Research Interests
 
@@ -18,6 +30,6 @@ I am a Ph.D. student at ...
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-{% include_relative _includes/publications.md %}
+
 
 {% include_relative _includes/services.md %}
