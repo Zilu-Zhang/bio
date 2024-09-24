@@ -14,9 +14,20 @@ main:
   - title: TuNaAI - a hybrid kernel machine to design tunable nanoparticles for drug delivery
     authors: <strong>Zilu Zhang†</strong>, Yan Xiang, Joe Laforet Jr., Daniel Reker* (*Corresponding authors)
     conference_short: NanoDDS 2024
-    conference: The 22nd International Nanomedicine and Drug Delivery Symposium
+    conference: The 22nd International Nanomedicine and Drug Delivery Symposium, 2024
     pdf: https://www.nature.com/articles/s41565-024-01673-7
     code: https://github.com/RekerLab/NanoAnalysis
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Trainee Travel Award
+
+
+  - title: Screening oral drugs for their interactions with the intestinal transportome via porcine tissue explants and machine learning
+    authors: Yunhua Shi, Daniel Reker, James D. Byrne, Ameya R. Kirtane, Kaitlyn Hess, Zhuyi Wang, Natsuda Navamajiti, Cameron C. Young, Zachary Fralish, <strong>Zilu Zhang<strong>, Aaron Lopes, Vance Soares, Jacob Wainer, Thomas von Erlach, Lei Miao, Robert Langer, Giovanni Traverso* (*Corresponding authors)
+    conference_short: Nat. Biomed. Eng
+    conference: Nature Biomedical Engineering, 2024
+    pdf: https://www.nature.com/articles/s41551-023-01128-9
+    code: https://github.com/RekerLab/Transportome
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
