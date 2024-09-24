@@ -3,7 +3,7 @@ main:
   - title: A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research
     authors: Bárbara B. Mendes†, <strong>Zilu Zhang†</strong>, João Conniot, Diana P. Sousa, João M. J. M. Ravasco, Lauren A. Onweller, Andżelika Lorenc, Tiago Rodrigues*, Daniel Reker*, João Conde* (†Co-first authors, *Corresponding authors)
     conference_short: Nat. Nanotechnol
-    conference: Nature Nanotechnology, 2024.
+    conference: Nature Nanotechnology, 2024
     pdf: https://www.nature.com/articles/s41565-024-01673-7
     code: https://github.com/RekerLab/NanoAnalysis
     #bibtex: https://bib.yliu.me/MICCAI23.txt
