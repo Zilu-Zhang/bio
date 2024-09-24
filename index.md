@@ -16,6 +16,8 @@ Hey! I'm a Ph.D. candidate in the [Reker Lab](https://rekerlab.pratt.duke.edu/) 
   * *Tripartite nanoparticle* to repurpose and enhance efficacy of cargo drugs
   * *Tunable nanoparticle* to formulate hard-to-encapsulate drugs and reduce excipient usage
 
+- **Lab Automation,** **Molecular Dynamics Simulation**
+
 {% include_relative _includes/publications.md %}
 
 ## Research Interests
