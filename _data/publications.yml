@@ -8,7 +8,7 @@ main:
     code: https://github.com/RekerLab/NanoAnalysis
     page: ./assets/files/BMES2023_ZiluZhang.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/test2.png
+    image: ./assets/img/nano_page.png
     notes: Orally Presented at BMES2023
 
 
