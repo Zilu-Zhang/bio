@@ -40,5 +40,3 @@ Hey! I'm a Ph.D. candidate in the [Reker Lab](https://rekerlab.pratt.duke.edu/) 
 - **Founding teaching assistant** of BME Data Science, Duke University, 2024
 - **Founding teaching assistant** of Machine Learning in Pharmacology, Duke University, 2021
 - **Teaching assistant/guest lecturer** of Asian & Middle Eastern Studies, Duke University, 2020
-
-#{% include_relative _includes/services.md %}
