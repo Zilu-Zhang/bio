@@ -40,3 +40,9 @@ Hey! I'm a Ph.D. candidate in the [Reker Lab](https://rekerlab.pratt.duke.edu/) 
 - **Founding teaching assistant** of BME Data Science, Duke University, 2024
 - **Founding teaching assistant** of Machine Learning in Pharmacology, Duke University, 2021
 - **Teaching assistant/guest lecturer** of Asian & Middle Eastern Studies, Duke University, 2020
+
+## Fun Facts
+
+- **Certified Jazz Drummer**, Grade 10, China Conservatory of Music
+- **Tug of War with A Plane (Plane Pull)**, 1st Place Fitness Division, Special Olympics North Carolina 
+- **Early Bird Morning Runner**, over 1000 kilometers/year 
