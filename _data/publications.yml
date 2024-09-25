@@ -8,14 +8,14 @@ main:
     code: https://github.com/RekerLab/NanoAnalysis
     page: ./assets/files/BMES2023_ZiluZhang.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/test.png
+    image: ./assets/img/test2.png
     notes: Orally Presented at BMES2023
 
 
   - title: TuNaAI - a hybrid kernel machine to design tunable nanoparticles for drug delivery
     authors: <strong>Zilu Zhang</strong>, Yan Xiang, Joe Laforet Jr., Daniel Reker* (*Corresponding authors)
     conference_short: NanoDDS2024
-    conference: The 22nd International Nanomedicine and Drug Delivery Symposium, 2024
+    conference: "The 22nd International Nanomedicine and Drug Delivery Symposium, 2024\nManuscript in preparation"
     pdf: ./assets/files/NanoDDS2024_ZiluZhang.pdf
     code: https://github.com/RekerLab/NanoAnalysis
     #bibtex: https://bib.yliu.me/MICCAI23.txt
