@@ -19,7 +19,7 @@ main:
     pdf: ./assets/files/NanoDDS2024_ZiluZhang.pdf
     code: https://github.com/RekerLab/NanoAnalysis
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/tuna_page.png
     notes: Trainee Travel Award
 
 
