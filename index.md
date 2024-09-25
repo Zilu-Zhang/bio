@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hey! I'm a Ph.D. candidate in the [Reker Lab](https://rekerlab.pratt.duke.edu/) in the Department of Biomedical Engineering (BME) at Duke University. My research broadly focuses on machine learning and drug development.
+Hey there! I'm pursuing a doctoral degree in Biomedical Engineering (BME) in the [Reker Lab](https://rekerlab.pratt.duke.edu/) at Duke University. My research broadly focuses on machine learning and drug development.
 
 - **Machine Learning**
   * *Kernel design* to suggest synthesis condition of nanodrug
