@@ -17,7 +17,7 @@ main:
     conference_short: NanoDDS2024
     conference: The 22nd International Nanomedicine and Drug Delivery Symposium, 2024
     pdf: ./assets/files/NanoDDS2024_ZiluZhang.pdf
-    code: https://github.com/RekerLab/NanoAnalysis
+    code: https://github.com/Zilu-Zhang/TuNa-AI
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/tuna_page.png
     notes: Trainee Travel Award
