@@ -38,7 +38,7 @@ Hey there! I'm pursuing a doctoral degree in Biomedical Engineering (BME) in the
 ## Teaching Experience
 
 - **Founding teaching assistant** of AI Entrepreneurship: Building and Leading AI-Driven Startups, Duke University, 2025
-- **Founding teaching assistant** of BME Data Science, Duke University, 2024
+- **Founding teaching assistant** of Biomedical Data Science, Duke University, 2024
 - **Founding teaching assistant** of Machine Learning in Pharmacology, Duke University, 2021
 - **Teaching assistant/guest lecturer** of Asian & Middle Eastern Studies, Duke University, 2020
 
