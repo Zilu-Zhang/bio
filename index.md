@@ -30,7 +30,7 @@ Hey there! I'm pursuing a doctoral degree in Biomedical Engineering (BME) in the
 ## Outreach Activities
 
 - **Ambassador** of the Summer Language Intensive Communication Experience (SLICE), Duke University, 2024
-- **Mentor** of PhD Mentoring Program, Duke University, 2023/2024
+- **Mentor** of PhD Mentoring Program, Duke University, 2023/2024/2025
 - **Invited speaker** of the Outreach Design Education Program (ODE), Duke University, 2023
 - **Mentor** of Visible Thinking - Annual Undergraduate Research Symposium, Duke University, 2023
 - **Mentor** of Biological Sciences Undergraduate Research Fellowship (B-SURF), Duke University, 2021
