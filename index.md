@@ -28,7 +28,6 @@ Hey there! I'm pursuing a doctoral degree in Biomedical Engineering (BME) in the
 - **2023**
   * *BMES2023* (Biomedical Engineering Society 2023 Annual Meeting), Seattle, WA
 
-  
 ## Awards and Recognition
 
 - **The Graduate School Conference Travel Award**, Duke University, 2024
