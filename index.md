@@ -31,6 +31,7 @@ Hey there! I'm pursuing a doctoral degree in Biomedical Engineering (BME) in the
 ## Awards and Recognition
 
 - **Paul and Lauren Ghaffari Graduate Fellowship**, Duke University, 2025
+- **Trainee Travel Award**, International Nanomedicine and Drug Delivery Symposium (NanoDDS), 2024
 - **The Graduate School Conference Travel Award**, Duke University, 2024
 - **The BME Department Conference Travel Award**, Duke University, 2023/2024
 - **The BME Department PhD Fellowship**, Duke University, 2022
