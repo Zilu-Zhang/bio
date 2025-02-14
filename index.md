@@ -36,6 +36,11 @@ Hey there! I'm pursuing a doctoral degree in Biomedical Engineering (BME) in the
 - **The BME Department Conference Travel Award**, Duke University, 2023/2024
 - **The BME Department PhD Fellowship**, Duke University, 2022
 - **Master Students' Research Fellowship**, Duke University, 2019
+
+## Certificates
+
+- **Innovation and Entrepreneurship**, Duke University, 2024
+- **Biotechnology**, Duke University, 2021
   
 ## Outreach Activities
 
