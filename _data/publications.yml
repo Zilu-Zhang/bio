@@ -1,6 +1,5 @@
 main:
 
-  
   - title: TuNaAI - a hybrid kernel machine to design tunable nanoparticles for drug delivery
     authors: <strong>Zilu Zhang</strong>, Yan Xiang, Joe Laforet Jr., Ivan Spasojevic, Ping Fan, Ava Heffernan, Christine E. Eyler, Kris C. Wood, Zachary C. Hartman, Daniel Reker* (*Corresponding author)
     conference_short: Preprint
@@ -8,7 +7,7 @@ main:
     pdf: https://chemrxiv.org/engage/chemrxiv/article-details/67d47d486dde43c908cd8408
     code: https://github.com/RekerLab/TuNa-AI
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/tuna_page.png
+    image: ./assets/img/tuna_page_new.png
     notes: Awarded at NanoDDS2024
     
   - title: A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research
