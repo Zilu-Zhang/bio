@@ -7,7 +7,7 @@ main:
     pdf: https://chemrxiv.org/engage/chemrxiv/article-details/67d47d486dde43c908cd8408
     code: https://github.com/RekerLab/TuNa-AI
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/tuna_page_new.png
+    image: ./assets/img/tuna_page_new_2.png
     notes: Awarded at NanoDDS2024
     
   - title: A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research
