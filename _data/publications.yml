@@ -1,27 +1,26 @@
 main:
 
+  
+  - title: TuNaAI - a hybrid kernel machine to design tunable nanoparticles for drug delivery
+    authors: <strong>Zilu Zhang</strong>, Yan Xiang, Joe Laforet Jr., Ivan Spasojevic, Ping Fan, Ava Heffernan, Christine E. Eyler, Kris C. Wood, Zachary C. Hartman, Daniel Reker* (*Corresponding author)
+    conference_short: Preprint
+    conference: ChemRxiv, 2025
+    pdf: https://chemrxiv.org/engage/chemrxiv/article-details/67d47d486dde43c908cd8408
+    code: https://github.com/RekerLab/TuNa-AI
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/tuna_page.png
+    notes: Awarded at NanoDDS2024
+    
   - title: A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research
     authors: Bárbara B. Mendes†, <strong>Zilu Zhang†</strong>, João Conniot, Diana P. Sousa, João M. J. M. Ravasco, Lauren A. Onweller, Andżelika Lorenc, Tiago Rodrigues*, Daniel Reker*, João Conde* (†Co-first authors, *Corresponding authors)
     conference_short: Nat. Nanotechnol
     conference: Nature Nanotechnology, 2024
     pdf: https://www.nature.com/articles/s41565-024-01673-7
     code: https://github.com/RekerLab/NanoAnalysis
-    page: ./assets/files/BMES2023_ZiluZhang.pdf
+    #page: ./assets/files/BMES2023_ZiluZhang.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/nano_page.png
     notes: Orally Presented at BMES2023
-
-
-  - title: TuNaAI - a hybrid kernel machine to design tunable nanoparticles for drug delivery
-    authors: <strong>Zilu Zhang</strong>, Yan Xiang, Joe Laforet Jr., Daniel Reker* (*Corresponding authors)
-    conference_short: NanoDDS2024
-    conference: The 22nd International Nanomedicine and Drug Delivery Symposium, 2024 (manuscript in preparation)
-    pdf: ./assets/files/NanoDDS2024_ZiluZhang.pdf
-    code: https://github.com/Zilu-Zhang/TuNa-AI
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/tuna_page.png
-    notes: Trainee Travel Award
-
 
   - title: Screening oral drugs for their interactions with the intestinal transportome via porcine tissue explants and machine learning
     authors: Yunhua Shi, Daniel Reker, James D. Byrne, Ameya R. Kirtane, Kaitlyn Hess, Zhuyi Wang, Natsuda Navamajiti, Cameron C. Young, Zachary Fralish, <strong>Zilu Zhang</strong>, Aaron Lopes, Vance Soares, Jacob Wainer, Thomas von Erlach, Lei Miao, Robert Langer, Giovanni Trasverso* (*Corresponding authors)
