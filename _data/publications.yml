@@ -1,6 +1,6 @@
 main:
 
-  - title: TuNa-AI: A Hybrid Kernel Machine to Design Tunable Nanoparticles for Drug Delivery
+  - title: "TuNa-AI: A Hybrid Kernel Machine to Design Tunable Nanoparticles for Drug Delivery"
     authors: <strong>Zilu Zhang</strong>, Yan Xiang, Joe Laforet Jr., Ivan Spasojevic, Ping Fan, Ava Heffernan, Christine E. Eyler, Kris C. Wood, Zachary C. Hartman, Daniel Reker* (*Corresponding author)
     conference_short: ACS Nano
     conference: ACS Nano, 2025
@@ -8,7 +8,7 @@ main:
     code: https://github.com/RekerLab/TuNa-AI
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/tuna_page_new_2.png
-    notes: Best Abstract (NanoDDS2024)
+    notes: Best Abstract at NanoDDS2024; Best Poster at CRS2025
     
   - title: A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research
     authors: Bárbara B. Mendes†, <strong>Zilu Zhang†</strong>, João Conniot, Diana P. Sousa, João M. J. M. Ravasco, Lauren A. Onweller, Andżelika Lorenc, Tiago Rodrigues*, Daniel Reker*, João Conde* (†Co-first authors, *Corresponding authors)
