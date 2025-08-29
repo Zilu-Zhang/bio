@@ -7,14 +7,14 @@ layout: homepage
 Hey there! I'm pursuing a doctoral degree in Biomedical Engineering (BME) in the [Reker Lab](https://rekerlab.pratt.duke.edu/) at Duke University. My research broadly focuses on machine learning and drug development.
 
 - **Machine Learning**
-  * *Kernel design* to suggest synthesis condition of nanodrug
-  * *Active learning* to refine nanoparticle design in low data regime
-  * *Transfer learning* to leverage prior knowledge for nanotherapeutics optimization
+  * *Kernel Hybridization* for flexible, modular and bespoke algorithm design
+  * *Active Learning* for informative annotation and experiment prioritization
+  * *Semi-Supervised Learning* for knowledge extraction from unlabeled data and enhanced model evolution
     
 - **Nanoparticle Drug Delivery Design**
-  * *Targeted nanoparticle* to achieve desired nanoparticle biodistribution
-  * *Tripartite nanoparticle* to repurpose and enhance the efficacy of cargo drugs
-  * *Tunable nanoparticle* to formulate hard-to-encapsulate drugs and reduce excipient usage
+  * *Targeted Nanoparticle* to achieve desired nanoparticle biodistribution
+  * *Triple-Component Nanoparticle* to repurpose and enhance the efficacy of cargo drugs
+  * *Tunable Nanoparticle* to formulate hard-to-encapsulate drugs and reduce excipient usage
 
 - **Lab Automation,** **Molecular Dynamics Simulation**
 
@@ -22,16 +22,19 @@ Hey there! I'm pursuing a doctoral degree in Biomedical Engineering (BME) in the
 
 ## Conference Presentations
 
+- **2025**
+  * *CRS2025* (Controlled Release Society Annual Meeting and Exposition), Philadelphia, PA
 - **2024**
-  * *BMES2024* (Biomedical Engineering Society 2024 Annual Meeting), Baltimore, MD
+  * *BMES2024* (Biomedical Engineering Society Annual Meeting), Baltimore, MD
   * *NanoDDS2024* (The 22nd International Nanomedicine and Drug Delivery Symposium), Orlando, FL
 - **2023**
-  * *BMES2023* (Biomedical Engineering Society 2023 Annual Meeting), Seattle, WA
+  * *BMES2023* (Biomedical Engineering Society Annual Meeting), Seattle, WA
 
 ## Awards and Recognition
 
+- **Best Poster Award**, Controlled Release Society (CRS), 2025
 - **Paul and Lauren Ghaffari Graduate Fellowship**, Duke University, 2025
-- **Trainee Travel Award**, International Nanomedicine and Drug Delivery Symposium (NanoDDS), 2024
+- **Best Abstract Award**, International Nanomedicine and Drug Delivery Symposium (NanoDDS), 2024
 - **The Graduate School Conference Travel Award**, Duke University, 2024
 - **The BME Department Conference Travel Award**, Duke University, 2023/2024
 - **The BME Department PhD Fellowship**, Duke University, 2022
