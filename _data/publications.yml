@@ -4,7 +4,7 @@ main:
     authors: <strong>Zilu Zhang</strong>, Yan Xiang, Joe Laforet Jr., Ivan Spasojevic, Ping Fan, Ava Heffernan, Christine E. Eyler, Kris C. Wood, Zachary C. Hartman, Daniel Reker* (*Corresponding author)
     conference_short: ACS Nano
     conference: ACS Nano, 2025
-    pdf: https://chemrxiv.org/engage/chemrxiv/article-details/67d47d486dde43c908cd8408
+    pdf: https://pubs.acs.org/doi/10.1021/acsnano.5c09066
     code: https://github.com/RekerLab/TuNa-AI
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/tuna_page_new_2.png
